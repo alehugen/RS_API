@@ -1,0 +1,6 @@
+@RSAPI_HostAddress = http://localhost:5008
+
+GET {{RSAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
